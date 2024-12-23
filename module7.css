@@ -798,6 +798,10 @@ text-decoration: none;
     align-items: flex-end;
     display: flex;
     justify-content: flex-end;
+    
+}
+
+.close img {
     cursor: pointer;
 }
 
